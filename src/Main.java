@@ -1,8 +1,7 @@
 public class Main {
 
-    public static void main2 (String[] args) {
+    public static void main (String[] args) {
         System.out.println ("Code at line 4");
-        System.out.println ("Code at line 5 was added");
 
     }
 }
